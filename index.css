@@ -32,5 +32,6 @@ body{
 .playing{
    transform: scale(1.1);
    border-color: #11eb11;
-   box-shadow: 0 0 10px #11eb11 ;
+   box-shadow: 0 0 10px #11eb11;
+   
 }
