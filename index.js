@@ -5,6 +5,7 @@ window.addEventListener("keydown", function (e) {
 
     // Log for debugging
     
+
     
 
     // If no matching audio or key is found, exit the function
